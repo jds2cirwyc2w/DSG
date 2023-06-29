@@ -1,5 +1,9 @@
 # DSG: Document Structure Generator
 
+## Paper
+Further information and evaluations can be found in the [paper](paper.pdf)
+
+
 ## Requirements
 
 We tested our code on a Linux machine with python 3.10, detectron 0.6 and pytorch 1.11.
